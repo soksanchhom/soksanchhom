@@ -7,6 +7,6 @@ I'm "Soksan".
 
 [![Soksanchhom's GitHub stats](https://github-readme-stats.vercel.app/api?username=soksanchhom&count_private=true&show_icons=true&theme=radical&orgs=soramitsukhmer)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soksanchhom&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soksanchhom&count_private=true&layout=compact&theme=tokyonight&orgs=soramitsukhmer)](https://github.com/anuraghazra/github-readme-stats)
 
 
