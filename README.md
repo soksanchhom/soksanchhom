@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm "Soksan". 
+I'm "Soksan" love to be minimalist but no chance. 
 - ⚡ I'm a fullstack-developer studying in Computer Science.
 - 🔭 Interests : Software development, embedded system, blockchain, investment
 - 💼 Interned as Software Develper at SoramitsuKH!!!
